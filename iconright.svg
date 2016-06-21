@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="28px" viewBox="0 0 16 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Module-02-Templates" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="#8-Web-App" transform="translate(-1354.000000, -1585.000000)" fill="#E7EAEC">
+            <g id="Testimonials-#6" transform="translate(0.000000, 1399.000000)">
+                <path d="M1354.49074,201.157059 C1353.83642,200.518 1353.83642,199.482 1354.49074,198.842941 L1367.38691,186.239647 C1367.71365,185.920118 1368.24419,185.920118 1368.57093,186.239647 L1369.75494,187.396706 C1370.08169,187.716235 1370.08169,188.234235 1369.75494,188.553765 L1358.63396,199.421059 C1358.30721,199.740588 1358.30721,200.259412 1358.63396,200.578118 L1369.75494,211.446235 C1370.08169,211.765765 1370.08169,212.283765 1369.75494,212.603294 L1368.57093,213.760353 C1368.24419,214.079882 1367.71365,214.079882 1367.38691,213.760353 L1354.49074,201.157059 Z" id="Icon" transform="translate(1362.000000, 200.000000) scale(-1, 1) translate(-1362.000000, -200.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1440px" height="385px" viewBox="0 0 1440 385" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Line</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="12.789843%" x2="50%" y2="66.2199561%" id="linearGradient-1">
+            <stop stop-color="#F4F4F4" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Module-02-Templates" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.600000024">
+        <g id="#8-Web-App" transform="translate(0.000000, -496.000000)" fill="url(#linearGradient-1)">
+            <g id="Header-#8">
+                <g id="Chart">
+                    <g id="Background" transform="translate(-15.000000, 481.000000)">
+                        <polygon id="Line" points="-7 111.70087 169 185.248389 296.8125 120.88735 423 143.547335 551 94.0079468 678 167.758284 738 109.700867 804.724297 130.303961 933 15.8671875 1059 211.471615 1180.43359 130.303958 1312 74.6606623 1486.6875 94.0079468 1503.77344 611 -10.71875 606.927725"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

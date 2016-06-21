@@ -1,0 +1,704 @@
+/*
+*{
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*/
+
+body{
+    height: 900px;
+    width:1440px;
+    margin: 0 auto;
+    padding: 0;
+    /* Background: */
+background: #FFFFFF;
+}
+
+/*-----------------header ----------------------------------------------------------------- */
+#logo{
+    margin-left: 80px;
+    margin-top: 50px;
+}
+
+#buynowwithborder{
+    /* Line: */
+    border-right: 2px solid #E1E8EE;
+    padding-right: 5px;
+    
+}  
+#buy23withborder{
+    /* Line: */
+   
+    padding-left: 10px;
+    
+}  
+
+
+#menu .buttonGrey{
+    float: right;
+    border: 2px solid #E1E8EE;
+    border-radius: 6px;
+    background-color: white;
+    font-family: Roboto-Medium;
+    font-size: 16px;
+    color: #86939E;
+    letter-spacing: 0px;
+    line-height: 16px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 13px;
+    padding-top: 13px;
+
+    margin-top: 40px;
+    margin-right: 60px;
+
+}
+#getfreetrial{
+
+    font-family: Roboto-Medium;
+    font-size: 16px;
+    color: #86939E;
+    letter-spacing: 0px;
+    line-height: 16px;
+    position: relative;
+    left: 965px;
+    top: -10px;
+}
+
+/*----------------------Call to Acion section--------------------------------------------------------------------*/
+
+.h1black{
+    text-align: center;
+	font-family: Roboto-Light;
+	font-size: 52px;
+    letter-spacing: -2px;
+	line-height: 58px;
+}
+
+.black{
+	color: #43484D;	
+}
+
+.subheader1{
+/*
+	position: relative;
+	left: 50%;
+    top: 50%;
+ 	transform: translate(-50%, -25%);
+  	width: 40%;
+*/
+    position: relative;
+    left: 50%;
+     top: 50%;
+ 	transform: translate(-50%, -25%);
+        width:686px;
+	font-family: Roboto-Light;
+	font-size: 22px;
+	color: #5E6977;
+	letter-spacing: 0px;
+	line-height: 32px;
+}
+
+.centerize .buttonGrey{
+    width:193px;
+    height: 60px;
+}
+
+.popup1{
+    text-align: center;
+    background: #838CC7;
+    margin: 0 auto;
+    box-shadow: 1px 2px 3px 0px rgba(0,0,0,0.10);
+    width: 202px;
+    height:127px;
+    position: relative;
+
+    left: -505px;
+    top: -30px;
+
+    
+}
+
+
+.popup1 .large{
+    font-family: Roboto-Light;
+    font-size: 32px;
+    color: #FFFFFF;
+    letter-spacing: 0px;
+    line-height: 38px; 
+    padding-top: 28px;
+    margin: 0;
+    padding: 0;
+    padding: 20px 40px 10px 30px;
+}
+
+.popup1 .small{
+    margin: 0;
+    padding: 0;
+    font-family: Roboto-Regular;
+    font-size: 16px;
+    color: #FFFFFF;
+    letter-spacing: 0px;
+    line-height: 25px;
+    
+}
+
+.popup2{
+    /* Background: */
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    width: 171px;
+    height: 51px;
+    text-align: center;
+    background: #53BBB3;
+    box-shadow: 1px 2px 3px 0px rgba(0,0,0,0.10);
+    border-radius: 25px;
+    position: relative;
+    left:44%;
+    
+}
+#popup2icon{
+    /* Circle: *//* Icon: */
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+background: rgba(255,255,255,0.10);
+border: 2px solid rgba(255,255,255,0.11);
+    position:relative;
+    left: -60px;
+    top:14px;
+}
+#popup2info{
+    /* 16 April, $241: */
+font-family: Roboto-Regular;
+font-size: 16px;
+color: #FFFFFF;
+letter-spacing: 0px;
+line-height: 25px;
+    position: relative;
+    top: -28px;
+    left: 2px;
+}
+
+
+.popup3{
+    /* Background: */
+    margin: 0;
+    padding: 0;
+    width: 222px;
+    height:197px;
+background: #39ADD1;
+box-shadow: 1px 2px 3px 0px rgba(0,0,0,0.10);
+    position: relative;
+    left: 1000px;
+    top: -250px;
+}
+
+.popup3display{
+    display: inline-block;
+    position: relative;
+    top:0px;
+    left: 35px;
+}
+
+.popup3 hr{
+    /* Line: */
+
+    opacity: 0.2;
+    border: 1px solid #FFFFFF;
+    position: relative;
+    top: -2px;
+    width:191px;
+}
+
+#achievement{
+    display: inline-block;
+}
+
+#popup3right{
+    padding: 0;
+    margin: 0;
+    /* Oval: */
+    background: rgba(255,255,255,0.10);
+    border: 2px solid rgba(255,255,255,0.11);
+        width: 40px;
+    height: 35px;
+    border-radius: 50%;
+    position: relative;
+    left: 34px;
+    top:30px;
+}
+.popup3 .h3whiteLeft{
+    margin: 0;
+    padding: 0;
+    /* Achievement Complete: */
+font-family: Roboto-Regular;
+font-size: 18px;
+color: #FFFFFF;
+letter-spacing: 0px;
+line-height: 25px;
+    width: 118px;
+    position: relative;
+    left: 88px;
+    top: -15px;
+}
+
+.popup3 .captionWhite{
+    padding: 0;
+    margin: 0;
+    width:130px;
+    position: relative;
+    left: 15px;
+    
+    
+    
+}
+
+.chart{
+    text-align: center;
+}
+.chart .captionGrey{
+    /* Drag to time travel: */
+font-family: Roboto-Regular;
+font-size: 14px;
+color: #86939E;
+letter-spacing: 0px;
+line-height: 19px;
+}
+
+.buttonWhite{
+	font-family: Roboto-Medium;
+	font-size: 16px;
+	color: #FFFFFF;
+	letter-spacing: 0px;
+	line-height: 16px;
+	 /* background color is green*/
+	background: #7DC855; 
+	border: none;
+    width: 190px;
+    height: 60px;
+}
+
+.centerize{
+    display: block;
+    text-align: center;
+}
+
+div .buttonGrey{
+    border: 2px solid #E1E8EE;
+    border-radius: 6px;
+    background-color: white;
+
+
+    font-family: Roboto-Medium;
+    font-size: 16px;
+    color: #86939E;
+    letter-spacing: 0px;
+    line-height: 16px;
+
+
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-bottom: 13px;
+    padding-top: 13px;
+
+}
+
+#buynowfor23{
+    margin-top: 20px;
+}
+
+.line{
+    /* Line: */
+    background: #EEEEEE;
+}
+
+.calltoAction{
+    text-align: center;
+   
+}
+
+.calltoAction .quote2black{
+        /* We push ourselves to: */
+    font-family: Roboto-Light;
+    font-size: 32px;
+    color: #43484C;
+    letter-spacing: 0px;
+    line-height: 46px;
+    display: block;
+    width: 948px;
+     position: relative;
+    left: 50%;
+     top: 50%;
+ 	transform: translate(-50%, 0);
+    padding-top: 140px;
+        
+}
+.calltoAction .buttonWhite{
+    margin-bottom: 122px;
+}
+
+/*  ------Testimonials Section---------------------------------------------------------*/
+.testimonials{
+    margin: 0;
+    padding: 0;
+    background: #FFFFFF;
+    display: inline-block;
+}
+.testimonials .quote2black{
+    font-family: Roboto-Light;
+    font-size: 32px;
+    color: #43484C;
+    letter-spacing: 0px;
+    line-height: 46px;
+    width: 945px;
+}
+
+
+.h3blackleft{
+    /* Irina Bykova: */
+    font-family: Roboto-Regular;
+        font-size: 18px;
+        color: #43484D;
+        letter-spacing: 0px;
+        line-height: 25px;
+        margin-top: -20px;
+    margin-bottom: 20px;
+}
+.bodygreyleft{
+ /* Photographer, works : */
+    font-family: Roboto-Regular;
+    font-size: 16px;
+    color: #86939E;
+    letter-spacing: 0px;
+    line-height: 25px; 
+    width: 250px;
+    margin-top: -20px;
+}
+
+
+.icons{
+    display: inline;
+}
+
+#usericon{
+    width: 45px;
+    height: 45px;
+    position: relative;
+    left:175px;
+    top:-95px;
+}
+
+
+#user{
+    width: 120px;
+    height: 120px;
+    margin-left: 26px;
+    margin-top:  172px;
+
+}
+
+
+
+
+#iconleft{
+    padding-left: 70px;
+    padding-top: 186px;
+    width: 16px;
+    height: 28px;
+}
+
+#iconright{
+  
+ 
+    float: right;
+    margin-right: -50px;
+    margin-top: -150px;
+    width: 16px;
+    height: 28px;
+}
+
+#userInfo{
+    margin: 0 auto;
+    margin-left: 355px;
+    margin-top: -160px;
+    padding: 0;
+    
+}
+
+
+/* -------------------------------------------------------------------------*/
+
+/*
+price Tables	
+*/
+
+#priceTables{
+    background: #F4F4F4;
+    text-align: center;
+}
+
+#priceTables .h1black{
+    padding-top: 100px;
+}
+
+.plan{
+   /* Background: */
+    text-align: center;
+    background: #FFFFFF;
+    box-shadow: 1px 2px 3px 0px rgba(0,0,0,0.10);
+    border-radius: 6px; 
+    display: inline-block;
+    width: 360px;
+    height: 430px;
+    vertical-align:top;
+    margin: 15px;
+    
+}
+
+.i_icon {
+
+    transform: rotate(-39deg);
+    background: rgba(53,142,215,0.10);
+        /* Mask: */
+    border-radius: 6px;
+        /* Icon: */
+    background: #86939E;
+}
+
+.plan:hover{
+    border:1px solid #358ED7; 
+   /* Icon: */
+    /* Background: */
+    background: url(ii_icon.svg) no-repeat right 0px;
+}
+
+
+.plan .line{
+       
+    opacity: 0.5;
+    margin-top: 50px;
+    background: #E1E8EE;
+    }
+
+.plan .h2black{
+        
+    text-align: center;
+    padding-top: 31px;
+    font-family: Roboto-Light;
+    font-size: 32px;
+    color: #43484D;
+    letter-spacing: 0px;
+    line-height: 38px;
+    }
+.plan .bodygreycentered{
+       
+    text-align: center;
+    font-family: Roboto-Regular;
+    font-size: 16px;
+    color: #86939E;
+    letter-spacing: 0px;
+    line-height: 25px;
+    width: 300px;
+    height: 75px;
+
+    margin-left: 30px;
+    margin-top: -30px;
+
+
+    }
+
+
+#free{
+       
+    font-family: Roboto-Light;
+    font-size: 52px;
+    color: #7DC855;
+    letter-spacing: -2px;
+    line-height: 58px;
+    margin: 0;
+    padding: 0;
+    }
+
+.generalText{
+        
+    font-family: Roboto-Regular;
+    font-size: 14px;
+    color: #86939E;
+    letter-spacing: 0px;
+    line-height: 20px;
+    width: 166px;
+    height:60px;
+    text-align: left;
+    }
+
+.buttonWhite{
+        font-family: Roboto-Medium;
+        font-size: 16px;
+        color: #FFFFFF;
+        letter-spacing: 0px;
+        line-height: 16px;
+         
+        background: #7DC855; 
+        border: none;
+        width: 300px;
+        height: 60px;
+        margin-top: -20px;
+        
+    }
+
+#dollarSign{
+        
+    font-family: Roboto-Regular;
+    font-size: 27px;
+    color: #50555B;
+    letter-spacing: -1.04px;
+    margin-left: -50px;
+    position: relative;
+    top:-20px;s
+    }
+
+.moneyInfo li{
+    display: inline-block;
+    margin: 14px;
+    vertical-align:baseline;
+}
+
+#getit{
+   
+}
+
+
+
+/* -----------Subscribe Section--------------------------------------------------------------*/
+
+.subscribe{
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.subscribe .h1black{
+    margin: 0;
+    padding: 0;
+    padding-top: 80px;
+
+}
+.subscribe .subheader1{
+    margin: 0;
+    padding: 0;
+    margin-top: 20px;
+    width: 491px;
+    margin-bottom: 40px;
+}
+.input{
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 64px;
+}
+#emailInput{
+	border:none;
+	background: url(emailIcon.svg) no-repeat scroll 10px 20px;
+	padding-left: 35px;
+	border-left-style: solid;
+	border-left-color: #E1E8EE;
+	border-left-width: 2px;
+
+	border-top-style: solid;
+	border-top-color: #E1E8EE;
+	border-top-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #E1E8EE;
+	border-bottom-width: 2px;
+
+	border-top-left-radius: 6px;
+	border-bottom-left-radius:6px;
+	width: 280px;
+    height: 56px;
+    text-align: left;
+    /* E-mail address: */
+    font-family: Roboto-Regular;
+    font-size: 16px;
+    color: #86939E;
+    letter-spacing: 0px;
+    line-height: 16px;
+    margin-left: -5px;
+}
+#letsChat{
+    /* Let’s chat: */
+     font-family: Roboto-Medium;
+     font-size: 16px;
+     color: #FFFFFF;
+     letter-spacing: 0px;
+     line-height: 16px;
+     vertical-align: bottom;
+     margin-bottom: 0.2px;
+     margin-left: -5px;
+     padding: 23px 35px 23px 35px;
+     border-top-right-radius: 6px;
+     border-bottom-right-radius:6px;
+     width:140px;
+     height: auto;
+
+}
+
+/*----------Footer --------------------------------------*/
+
+.footblock{
+    text-align: center;
+    padding: 40px;
+}
+.footblock li {
+    display:inline;
+    padding: 20px;    
+}
+
+footer{
+    
+background: #86939E;
+     height: 100px;
+   
+}
+.regular{
+
+    opacity: 0.8;
+    font-family: Roboto-Medium;
+    font-size: 16px;
+    color: #FFFFFF;
+    letter-spacing: 0px;
+
+}
+.regular:first-child{
+    margin-left: 2000px;
+}
+.captionWhite{
+    float: right;
+    opacity: 0.69;
+    font-family: Roboto-Regular;
+    font-size: 14px;
+    color: #FFFFFF;
+    letter-spacing: 0px;
+    line-height: 21px;
+    padding-right:110px;
+  
+}
+
+#cubelogo{
+    float:left;
+    padding-right:100px;
+    padding-left: 100px;
+}
+
+footer a{
+    text-decoration: none;
+    opacity: 0.8;
+    font-family: Roboto-Medium;
+    font-size: 16px;
+    color: #FFFFFF;
+    letter-spacing: 0px;
+}
